@@ -1,5 +1,5 @@
-site_name: ${{values.name | dump}}
-site_description: ${{values.description | dump}}
+site_name: TestDocumentation
+site_description: Description
 
 nav:
   - Introduction: index.md
