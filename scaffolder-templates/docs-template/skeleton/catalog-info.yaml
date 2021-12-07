@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Test Doc
+  name: TestDoc
   description: Description
   annotations:
     github.com/project-slug: SergeyMelnychuk/software-templates
