@@ -1,9 +1,3 @@
-+++
-title = "Definitions"
-type = "principles"
-layout = "single"
-+++
-
 **System**: One or more units of software that allow us to provide capabilities to customers or support that provision. It may be a *monolith*, be made up of *microservices* or *nanoservices* or even a mix of the last two.
 
 **Service Oriented Architecture (SOA)**: An architectural style in which a *System* is divided into multiple components, called services, each of which represents self-contained functionality that corresponds to a real world business process.
